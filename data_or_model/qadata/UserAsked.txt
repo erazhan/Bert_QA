@@ -1,0 +1,8 @@
+query1 世界最高的山
+query2 世界第二高的山
+query3 长江的分界点
+query4 黄河的分界点
+query5 中国第一位皇帝
+query6 中国最后一位皇帝
+query7 太阳和地球的关系
+query8 月球和地球的关系

@@ -1,0 +1,16 @@
+Q1 Q1 Q2
+Q2 Q2 Q1
+Q3 Q3 Q4
+Q4 Q4 Q3
+Q5 Q5 Q6
+Q6 Q6 Q5
+Q7 Q7 Q8
+Q8 Q8 Q7
+query1 Q1 Q2
+query2 Q2 Q1
+query3 Q3 Q4
+query4 Q4 Q3
+query5 Q5 Q6
+query6 Q6 Q5
+query7 Q7 Q8
+query8 Q8 Q7
